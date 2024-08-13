@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppServer</string>
+    <string name="title_activity_auth">Auth</string>
+    <string name="title_activity_registr">Registr</string>
+</resources>
